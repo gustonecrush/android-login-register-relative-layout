@@ -10,6 +10,8 @@
 <p>by Muhammad Rival</p>
 
 ### Mockup
-<img src="https://i.postimg.cc/RV9CxMXD/mockup-1.png" />
-<img src="https://i.postimg.cc/kMszDq7Z/mockup-2.png" />
-<img src="https://i.postimg.cc/jd98Jjm8/mockup-3.png" />
+<div style="display: flex">
+  <img src="https://i.postimg.cc/RV9CxMXD/mockup-1.png" width="200" />
+  <img src="https://i.postimg.cc/kMszDq7Z/mockup-2.png" width="200" />
+  <img src="https://i.postimg.cc/jd98Jjm8/mockup-3.png" width="200" />
+</div>
