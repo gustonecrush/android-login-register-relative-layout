@@ -12,10 +12,9 @@
         android:id="@+id/shape1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/shape1"
-        android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
-        />
+        android:layout_alignParentTop="true"
+        android:src="@drawable/shape1" />
 
     <ImageView
         android:id="@+id/btn_back"
